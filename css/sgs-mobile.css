@@ -1,0 +1,30 @@
+.nav-glyphish .ui-btn .ui-btn-inner { padding-top: 40px !important; }
+.nav-glyphish .ui-btn .ui-icon { width: 30px!important; height: 30px!important; margin-left: -15px !important; box-shadow: none!important; -moz-box-shadow: none!important; -webkit-box-shadow: none!important; -webkit-border-radius: 0 !important; border-radius: 0 !important; }
+
+#queue .ui-icon { background:  url(images/112-group.png) 50% 50% no-repeat; background-size: 32px 21px; }
+#patient .ui-icon { background:  url(images/102-walk.png) 50% 50% no-repeat; background-size: 14px 27px; }
+#settings .ui-icon { background:  url(images/19-gear.png) 50% 50% no-repeat; background-size: 26px 26px; }
+
+#footer-navigation .ui-grid-d .ui-block-a, #footer-navigation .ui-grid-d .ui-block-b, #footer-navigation .ui-grid-d .ui-block-c { width: 33.3%; }
+
+
+.type-interior #id-header { padding:8px 5px 8px 16px; font-size:14px; line-height:18px; }
+
+
+.non-bold { font-weight:normal; }
+.header-id { float:left; min-width:250px; }
+.flt-rt { float:right; }
+.flt-lt { float:left; }
+.clear { clear:both; }
+/* .ui-content { min-height:500px; } */
+
+.center-wrapper { text-align: center; }
+.center-wrapper * {margin: 0 auto; }
+
+.ui-li-desc { font-size: 13px; }
+			
+/*
+.type-interior .content-primary { padding-right:0%; padding-top:0; width:69.9% }
+.content-ajax { padding:40px; } 
+
+*/
